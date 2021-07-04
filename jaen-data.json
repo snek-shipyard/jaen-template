@@ -1,0 +1,61 @@
+{
+  "dataLayer": {
+    "working": {
+      "pages": {
+        "home": {
+          "details": {
+            "childSlugs": [
+              "home2"
+            ],
+            "hiddenChildSlugs": [],
+            "slug": "home",
+            "title": "Default HomePage",
+            "typeName": "HomePage"
+          },
+          "fields": {}
+        },
+        "home2": {
+          "details": {
+            "childSlugs": [],
+            "hiddenChildSlugs": [],
+            "slug": "home2",
+            "title": "HomePage2",
+            "typeName": "HomePage"
+          },
+          "fields": {
+            "cards": {
+              "blocks": {
+                "-1": {
+                  "fields": {
+                    "extra": "C",
+                    "text": "<h2>enildaeH</h2>",
+                    "title": "A"
+                  },
+                  "typeName": "CardBlock"
+                },
+                "0": {
+                  "fields": {
+                    "extra": "C",
+                    "text": "<p>B</p>",
+                    "title": "enildaeH"
+                  },
+                  "typeName": "CardBlock"
+                }
+              }
+            },
+            "field1": {
+              "content": "Neuer Text"
+            },
+            "field2": {
+              "content": "Neuer Text 2"
+            },
+            "field3": {
+              "content": "<ul>\n  <li>No content available</li>\n  <li>a</li>\n  <li>a</li>\n  <li>a</li>\n  <li>a</li>\n  <li>a</li>\n  <li>a</li>\n  <li>a</li>\n  <li><br></li>\n</ul>"
+            }
+          }
+        }
+      },
+      "rootPageSlug": "home"
+    }
+  }
+}
